@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MaintenanceArena](https://servis.maintenancearena.com/)
 
-- 🌱 I’m currently learning **NodeJs,VueJs,Spring**
+- 🌱 I’m currently learning **NodeJs,VueJs,React,Spring**
 
 - 👯 I’m looking to collaborate on [Php](https://github.com/php/php-src)
 
