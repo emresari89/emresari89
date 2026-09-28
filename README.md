@@ -12,6 +12,12 @@ I build reliable, scalable backend platforms and lead engineering teams while st
 
 ## Selected projects
 
+### [YzÇağrıMerkezi](https://yzcagrimerkezi.com/)
+A Turkish AI voice-assistant platform for businesses, supporting inbound-call handling, outbound campaigns, appointment management, and conversation tracking through a customer portal.
+
+### [Ramify](https://github.com/emresari89/mindmap2)
+A desktop mind-mapping application with AI-assisted creation, intelligent node expansion, real-time streaming, cloud synchronization, and support for OpenAI, Anthropic, and local Ollama models.
+
 ### [DeltaRiskDesk](https://delta.hillbilisim.com/)
 A production crypto-risk engine that transforms live Binance market data into risk decisions with a real-time Go pipeline, WebSockets, NATS, and QuestDB.
 
